@@ -1,9 +1,3 @@
 apiVersion: 1.0.0
 metadata:
   name: minimal-workspace
-projects:
-  name: react-test-app-codeready
-  source:
-    location: 'https://github.com/eamonduffy/CodeReady.git'
-    type: git
-    branch: master
